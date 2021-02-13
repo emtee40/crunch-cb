@@ -1,3 +1,5 @@
+# **This project is deprecated since most chromebooks are now supported in "brunch"**
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 # Crunch framework
 
 ## Overview
